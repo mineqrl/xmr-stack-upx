@@ -14,7 +14,7 @@
 
 "pool_list" :
 [
-	{"pool_address" : "upx.miningocean.org:4444", "wallet_address" : "YOUR_WORKER_NAME", "rig_id" : "test", "pool_password" : "workerid", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+	{"pool_address" : "upx.miningocean.org:4444", "wallet_address" : "YOUR_WALLET_ADDRESS", "rig_id" : "", "pool_password" : "WorkerId", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
